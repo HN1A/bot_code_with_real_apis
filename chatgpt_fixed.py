@@ -34,7 +34,7 @@ from feature_handlers import FeatureHandlers
 from ui_components import UIComponents
 
 # تكوين المفاتيح الأساسية
-TELEGRAM_TOKEN = "7571078091:AAGGMX-aHTc8X5BuaDB5-yEIfppQFh-AzEs"
+TELEGRAM_TOKEN = "7322873824:AAHlRTex4XeP2NS79tE9p1eWkL5XrgFp2ls"
 OPENROUTER_API_KEY = "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"
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 GEMINI_API_KEY = "AIzaSyDV1Hwzgo6HaUctAch0B6qzXZ8ujr14jIM"
